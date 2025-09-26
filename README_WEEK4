@@ -1,0 +1,16 @@
+# Spam Email Classifier
+
+## 📌 Project Description
+This project is a simple machine learning model that classifies text messages as **spam** or **not spam** using Naive Bayes and the SMS Spam Collection dataset.
+
+## ⚙️ Technologies
+- Python
+- scikit-learn
+- pandas
+
+## 🚀 How to Run
+1. Open `week4_spam_classifier.ipynb` in Google Colab.
+2. Run all cells to train the model.
+3. The model will output accuracy and classification report.
+
+## 📊 Example Output
